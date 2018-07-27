@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Whatsapp Clone</string>
+
+    <!--Welcome Screen-->
+
+    <string name="welcome_text">Welcome to WhatsApp</string>
+    <string name="btn_agreement">Agree and Continue</string>
+    <string name="agreement">Tap \"Agree and continue\" to accept the </string>
+    <string name="terms_policy">WhatsApp Terms of Service and Privacy and Policy.</string>
 </resources>

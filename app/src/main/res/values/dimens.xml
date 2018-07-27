@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+
+    <dimen name="top_margin">10dp</dimen>
+    <dimen name="bottom_margin">10dp</dimen>
+
+    <dimen name="default_padding">10dp</dimen>
+    <dimen name="padding_right">40dp</dimen>
+    <dimen name="padding_left">40dp</dimen>
+    <dimen name="padding_top">5dp</dimen>
+    <dimen name="padding_bottom">5dp</dimen>
+
+    <dimen name="font_xs">8sp</dimen>
+    <dimen name="font_xss">9sp</dimen>
+    <dimen name="font_s">10sp</dimen>
+    <dimen name="font_sm">15sp</dimen>
+    <dimen name="font_m">20sp</dimen>
+    <dimen name="font_l">35sp</dimen>
+    <dimen name="font_xl">50sp</dimen>
+
+</resources>
